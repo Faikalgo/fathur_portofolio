@@ -1,10 +1,5 @@
 .mabar{
     position: fixed;
-    right: 0;
-    left: 0;
-    top: 0;
-    justify-content: space-around;
-    z-index: 1000;
 }
 
 .myself {
