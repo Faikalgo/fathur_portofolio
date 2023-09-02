@@ -1,3 +1,7 @@
+body{
+    background: #081b29;
+}
+
 .myhome {
     height: 100vh;
     display: flex;
