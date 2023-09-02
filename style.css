@@ -1,20 +1,5 @@
-.collapse navbar-collapse{
+.nav{
     position: fixed;
-    height: 75px;
-            display: flex;
-            flex-direction: row;
-            align-items: end;
-            background: transparent;
-            background-size: cover;
-            background-position: center;
-            font-weight: bold;
-            font-size: 20px;
-            position: fixed;
-            right: 0;
-            left: 0;
-            top: 0;
-            justify-content: space-around;
-            z-index: 1000;
 }
 
 .myself {
