@@ -43,11 +43,13 @@ body nav{
     font-weight: 700;
     margin-left: 35px;
     transition: .3s;
+    position: fixed;
 }
 
 .navbar-brand{
     font-weight: 700;
     margin-left: 25px;
+    position: fixed;
 }
 
 .mycontainer{
