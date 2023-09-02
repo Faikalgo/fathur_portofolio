@@ -20,6 +20,7 @@
 .container p{
     font-size: 20px;
     margin: 20px 0 40px;
+    font-weight: 400;
 }
 
 .container btn-box{
