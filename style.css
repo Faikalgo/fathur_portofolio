@@ -11,6 +11,11 @@
     transition: .3s;
 }
 
+.navbar-brand{
+    font-weight: 700;
+    margin-left: 25px;
+}
+
 .container h1{
     font-size: 60px;
     font-weight: 700;
