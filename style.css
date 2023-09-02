@@ -1,3 +1,10 @@
+.myhome {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
 .mypicture {
 width: 65%;
 border-radius: 50%;
