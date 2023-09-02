@@ -42,6 +42,7 @@ body nav{
 .nav-item{
     font-weight: 700;
     margin-left: 35px;
+    margin-top: 20px;
     transition: .3s;
     position: fixed;
 }
@@ -49,6 +50,7 @@ body nav{
 .navbar-brand{
     font-weight: 700;
     margin-left: 25px;
+    margin-top: 20px;
     position: fixed;
 }
 
