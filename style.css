@@ -8,6 +8,7 @@
 .nav-item{
     font-weight: 700;
     margin-left: 35px;
+    text-decoration: none;
     transition: .3s;
 }
 
