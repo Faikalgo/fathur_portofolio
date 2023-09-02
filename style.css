@@ -6,15 +6,9 @@
 }
 
 .nav-item{
-    color: #00abf0;
     font-weight: 700;
     margin-left: 35px;
-    text-decoration: none;
     transition: .3s;
-}
-
-.nav-item:hover{
-    color: #00abf0;
 }
 
 .container h1{
