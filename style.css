@@ -42,13 +42,9 @@ body nav{
 .nav-item{
     font-weight: 700;
     margin-left: 35px;
+    top: 0;
     transition: .3s;
     position: fixed;
-    right: 0;
-     left: 0;
-     top: 0;
-    justify-content: space-around;
-     z-index: 1000;
 }
 
 .navbar-brand{
@@ -56,11 +52,6 @@ body nav{
     margin-left: 25px;
     margin-top: 20px;
     position: fixed;
-    right: 0;
-            left: 0;
-            top: 0;
-            justify-content: space-around;
-            z-index: 1000;
 }
 
 .mycontainer{
