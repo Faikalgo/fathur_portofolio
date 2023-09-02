@@ -42,16 +42,13 @@ body nav{
 .nav-item{
     font-weight: 700;
     margin-left: 35px;
-    top: 0;
     transition: .3s;
-    position: fixed;
 }
 
 .navbar-brand{
     font-weight: 700;
     margin-left: 25px;
     margin-top: 20px;
-    position: fixed;
 }
 
 .mycontainer{
