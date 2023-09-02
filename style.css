@@ -42,7 +42,7 @@ body nav{
 .nav-item{
     font-weight: 700;
     margin-left: 35px;
-    margin-top: 70px;
+    top: 0;
     transition: .3s;
     position: fixed;
 }
