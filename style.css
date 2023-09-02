@@ -8,6 +8,11 @@
 .nav-item{
     font-weight: 700;
     margin-left: 35px;
+    transition: .3s;
+}
+
+.nav-item:hover{
+    color: #00abf0;
 }
 
 .container h1{
